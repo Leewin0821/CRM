@@ -1,0 +1,7 @@
+### Files
+.gitignore
+CRM.iml
+
+# Folders
+.idea/
+target/
