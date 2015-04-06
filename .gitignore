@@ -5,3 +5,4 @@ CRM.iml
 # Folders
 .idea/
 target/
+node_modules/
